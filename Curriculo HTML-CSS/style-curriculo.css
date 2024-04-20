@@ -1,0 +1,54 @@
+*{
+	font-family:arial;
+    
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.margem-principal{
+    
+    border: 2px black solid;
+    padding: 20px;
+    width: 70%;
+    align-items: center;   
+    
+}
+
+h1{
+	text-align:center;
+    
+}
+h2{
+background-color: #ccc;
+text-align:center;
+
+}
+
+.dados_pessoais{
+	border: black dotted 1px;
+    padding:20px;
+    margin:5px;
+}
+
+#lista-objetivos{
+	line-height:2.5em;
+    border: black dotted 1px;
+    padding:20px;
+    margin:5px;
+}
+
+.container{
+	
+    border: black dotted 1px;
+    padding:20px;
+    margin:5px;
+}
+
+.curso{
+    margin-left: 20px;
+}
